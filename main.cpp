@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <iostream>
 #include <thread>
 #include <chrono>
@@ -68,6 +67,7 @@ int main() {
 
     std::cout << "Simulation complete.\n";
 }
+
 =======
 #include <iostream>
 #include <thread>
@@ -168,4 +168,3 @@ int main() {
     std::cout << "\nProgram finished cleanly.\n";
     return 0;
 }
->>>>>>> 0fb444f (Initial commit - Real-time IoT Sensor Simulator)

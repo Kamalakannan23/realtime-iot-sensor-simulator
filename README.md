@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-Time IoT Sensor Simulator
 
 A lightweight C++20 example that simulates temperature and humidity sensors publishing data at microsecond precision.  
@@ -16,6 +15,7 @@ mkdir build && cd build
 cmake ..
 make
 ./realtime_iot_sensor_simulator
+
 =======
 # Real-Time IoT Sensor Simulator
 
@@ -48,4 +48,3 @@ mkdir build && cd build
 cmake ..
 make
 ./realtime_iot_sensor_simulator
->>>>>>> 0fb444f (Initial commit - Real-time IoT Sensor Simulator)
